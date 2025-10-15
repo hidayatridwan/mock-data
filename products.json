@@ -1,0 +1,125 @@
+{
+  status:200,
+  message:"Success",
+  data: [
+    {
+        id: 1,
+        product_id: "PRD001",
+        product_name: "Cuci Kering - Baju",
+        category: "Cuci Kering",
+        expire_date: "2025-12-31",
+        quantity: 100,
+        price: 7000,
+        status: "active"
+    },
+    {
+        id: 2,
+        product_id: "PRD002",
+        product_name: "Cuci Kering - Celana",
+        category: "Cuci Kering",
+        expire_date: "2025-11-30",
+        quantity: 85,
+        price: 8000,
+        status: "active"
+    },
+    {
+        id: 3,
+        product_id: "PRD003",
+        product_name: "Setrika - Baju",
+        category: "Setrika",
+        expire_date: "2025-10-15",
+        quantity: 50,
+        price: 5000,
+        status: "expired"
+    },
+    {
+        id: 4,
+        product_id: "PRD004",
+        product_name: "Setrika - Celana",
+        category: "Setrika",
+        expire_date: "2025-12-20",
+        quantity: 60,
+        price: 5000,
+        status: "active"
+    },
+    {
+        id: 5,
+        product_id: "PRD005",
+        product_name: "Cuci Basah - Baju",
+        category: "Cuci Basah",
+        expire_date: "2025-11-10",
+        quantity: 40,
+        price: 6000,
+        status: "active"
+    },
+    {
+        id: 6,
+        product_id: "PRD006",
+        product_name: "Cuci Basah - Celana",
+        category: "Cuci Basah",
+        expire_date: "2025-10-05",
+        quantity: 30,
+        price: 6500,
+        status: "expired"
+    },
+    {
+        id: 7,
+        product_id: "PRD007",
+        product_name: "Cuci Sepatu - Sneakers",
+        category: "Cuci Sepatu",
+        expire_date: "2026-01-15",
+        quantity: 25,
+        price: 25000,
+        status: "active"
+    },
+    {
+        id: 8,
+        product_id: "PRD008",
+        product_name: "Cuci Sepatu - Kulit",
+        category: "Cuci Sepatu",
+        expire_date: "2025-09-30",
+        quantity: 15,
+        price: 30000,
+        status: "inactive"
+    },
+    {
+        id: 9,
+        product_id: "PRD009",
+        product_name: "Karpet - Tipis",
+        category: "Karpet",
+        expire_date: "2025-08-20",
+        quantity: 10,
+        price: 50000,
+        status: "inactive"
+    },
+    {
+        id: 10,
+        product_id: "PRD010",
+        product_name: "Karpet - Tebal",
+        category: "Karpet",
+        expire_date: "2026-02-28",
+        quantity: 8,
+        price: 80000,
+        status: "active"
+    },
+    {
+        id: 11,
+        product_id: "PRD011",
+        product_name: "Layanan Tambahan",
+        category: "Lainnya",
+        expire_date: "2025-12-31",
+        quantity: 200,
+        price: 10000,
+        status: "active"
+    },
+    {
+        id: 12,
+        product_id: "PRD012",
+        product_name: "Paket Hemat",
+        category: "Lainnya",
+        expire_date: "2025-10-20",
+        quantity: 45,
+        price: 15000,
+        status: "active"
+    }
+]};
